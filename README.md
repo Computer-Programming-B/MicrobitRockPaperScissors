@@ -6,7 +6,7 @@ Like the previous teleporting duck program, this one uses the micro:bit’s radi
 
 Program requirements
 -----------------
-* Your program will need at least three images that you create to represent rock, paper and scissors
+* Your program will need at least three images that represent rock, paper and scissors
 * Your program must use the micro:bit's sensor and radio features
 * Each person will submit the Python code for their program and an animated gif showing the two programs running to Google Classroom
 
