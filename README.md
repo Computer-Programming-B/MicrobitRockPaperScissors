@@ -1,5 +1,7 @@
 micro:bit Rock Paper Scissors
 --------------------
+![](RockPaperScissors2.gif)   
+
 In this assignment you and a partner will program two micro:bits to play the rock paper scissors game against each another.
 
 Like the previous teleporting duck program, this one uses the micro:bit’s radio function to send data from one micro:bit to another when the accelerometer detects a shake gesture. The program first configures the radio and sets its group. It doesn’t matter what group you pick as long as your partner’s micro:bit is using the same group number, and no-one else nearby is using the same group. When you shake your microbit, it randomly chooses rock, paper or scissors and sends it's choice on that radio group and clears. It compares it's choice with the other micro:bit's choice and displays whether it won, lost or tied
