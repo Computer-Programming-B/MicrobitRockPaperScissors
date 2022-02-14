@@ -14,12 +14,12 @@ Program requirements
 
 Suggested steps to completing this assignment
 ----------
-1. Add code to import the radio library, turn the radio on and set the group number
+1. Add code to import random, import the radio library, turn the radio on and set the group number
 2. Create three different images to represent rock, paper and scissors
 3. Create a variable `num`and initialize it to `3`
-3. Inside of the `while True:` write an `if` statement that checks if the micro:bit was shaken. If the microbit has been shaken, clear the display and set the `num` variable to a random integer from 0 to 2. For each of the 3 random numbers from 0 to 2, display a different image
-4. Create a message variable, and store the received radio message `message = radio.receive()`
-5. Inside of the `while True:` write another `if` statement `if message and num!=3:` Compare the message with random number and display whether the player won, lost or tied
+4. Inside of the `while True:` write an `if` statement that checks if the micro:bit was shaken. If the microbit has been shaken, clear the display and set the `num` variable to a random integer from 0 to 2. For each of the 3 random numbers from 0 to 2, display a different image
+5. Create a message variable, and store the received radio message `message = radio.receive()`
+6. Inside of the `while True:` write another `if` statement `if message and num!=3:` Compare the message with random number and display whether the player won, lost or tied
 
 Samples of Student Work
 ----------
