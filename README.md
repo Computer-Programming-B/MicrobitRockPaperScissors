@@ -25,4 +25,4 @@ Suggested steps to completing this assignment
 
 Samples of Student Work
 ----------
-*none yet!*
+[Jonathan](JonathanRockPaperScissors.gif)   
